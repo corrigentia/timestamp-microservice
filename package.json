@@ -13,7 +13,8 @@
     "clean-css": ">=4.1.11",
     "debug": "^4.1.1",
     "express": "^4.16.4",
-    "jade": "~1.11.0",
+    "pug": "latest",
+    "constantinople": "latest",
     "morgan": ">=1.9.1",
     "uglify-js": ">=2.6.0"
   }
