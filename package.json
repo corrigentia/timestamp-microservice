@@ -15,6 +15,9 @@
     "express": "^4.16.4",
     "pug": "latest",
     "constantinople": "latest",
+    "acorn": "latest",
+    "minimist": "latest",
+    "kind-of": "latest",
     "morgan": ">=1.9.1",
     "uglify-js": ">=2.6.0"
   }
