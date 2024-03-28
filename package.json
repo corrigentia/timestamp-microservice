@@ -12,7 +12,7 @@
   "dependencies": {
     "clean-css": ">=4.1.11",
     "debug": "^4.3.1",
-    "express": "^4.17.3",
+    "express": "^4.19.2",
     "pug": "latest",
     "constantinople": "latest",
     "acorn": "latest",
